@@ -3,9 +3,14 @@
 
 ## 🧠 Overview
 <p align="justify">
-This project presents a detailed comparative study of **Vanilla GAN**, **Wasserstein GAN (WGAN)**, and **WGAN with Gradient Penalty (WGAN-GP)**, implemented across datasets of increasing complexity—**MNIST**, **CIFAR-10**, and **Anime Faces**.  
-The goal is to analyze **training stability**, **sample quality**, and **theoretical robustness** of each architecture. 
+This project presents a detailed comparative study of <strong>Vanilla GAN</strong>, 
+<strong>Wasserstein GAN (WGAN)</strong>, and <strong>WGAN with Gradient Penalty (WGAN-GP)</strong>, 
+implemented across datasets of increasing complexity—<strong>MNIST</strong>, 
+<strong>CIFAR-10</strong>, and <strong>Anime Faces</strong>. The goal is to analyze 
+<strong>training stability</strong>, <strong>sample quality</strong>, and 
+<strong>theoretical robustness</strong> of each architecture.
 </p>
+
 
 ---
 
