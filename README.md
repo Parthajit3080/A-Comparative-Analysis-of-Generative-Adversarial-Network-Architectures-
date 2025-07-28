@@ -15,7 +15,7 @@ implemented across datasets of increasing complexity—<strong>MNIST</strong>,
 ---
 
 ## 🚀 Technologies Used
-- Python 3.9  
+- Python 3.10+
 - PyTorch  
 - Torchvision  
 - Matplotlib  
@@ -36,7 +36,10 @@ implemented across datasets of increasing complexity—<strong>MNIST</strong>,
 ---
 
 ## 🖼 Sample Outputs
-Add a few generated images from each model and dataset:  
+<img width="1059" height="771" alt="image" src="https://github.com/user-attachments/assets/29d8e7c3-53d7-468b-8184-25bf98b37000" />
+  
+
+## 📊 Datasets
 - MNIST  
 - CIFAR-10  
 - Anime Faces
