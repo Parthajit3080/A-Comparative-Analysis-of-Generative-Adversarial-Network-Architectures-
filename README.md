@@ -47,9 +47,9 @@ implemented across datasets of increasing complexity—<strong>MNIST</strong>,
 ---
 
 ## 📈 Key Insights
-- ✅ WGAN-GP shows the best performance in terms of **training stability** and **image quality**.  
-- ⚠️ Vanilla GAN is prone to **mode collapse** and **unstable gradients**.  
-- 📉 FID score **correlates well with visual quality** across all datasets.
+- WGAN-GP shows the best performance in terms of **training stability** and **image quality**.  
+- ⚠Vanilla GAN is prone to **mode collapse** and **unstable gradients**.  
+- FID score **correlates well with visual quality** across all datasets.
 
 ---
 
