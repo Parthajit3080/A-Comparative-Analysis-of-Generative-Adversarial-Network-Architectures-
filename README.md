@@ -54,7 +54,7 @@ implemented across datasets of increasing complexity—<strong>MNIST</strong>,
 ---
 
 ## 📄 Full Report
-https://docs.google.com/document/d/14ILdxdc2qljDoKtwGzHv4sGrYAeMZnjfXZrNbiJSzLc/edit?usp=sharing
+https://drive.google.com/file/d/1Penj5b-6YqdN88TWfryNkvliruPE1K69/view?usp=sharing
 
 ---
 
